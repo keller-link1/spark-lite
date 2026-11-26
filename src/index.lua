@@ -1,0 +1,2 @@
+-- spark-lite — minimal Lua helper module
+-- Author: @keller-link1
